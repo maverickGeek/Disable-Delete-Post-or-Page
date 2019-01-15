@@ -55,7 +55,7 @@ Let us know what questions you have!
 1. screenshot-2.jpg
 1. screenshot-3.jpg
 
-= Changelog =
+== Changelog ==
 
 = 3.0 =
 
