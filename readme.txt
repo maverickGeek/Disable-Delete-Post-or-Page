@@ -54,3 +54,31 @@ Let us know what questions you have!
 1. screenshot-1.jpg
 1. screenshot-2.jpg
 1. screenshot-3.jpg
+
+= Changelog =
+
+= 3.0 =
+
+Release Date: 2019/01/15
+
+* Updated documentation, readmes, comments and phpDOC comments.
+
+= 2.5 =
+
+Release Date: 2019/01/14
+
+* Re-developed by, Jeremy Selph http://www.reactivedevelopment.net/
+
+= 2.0 =
+
+* Released to WordPress.
+
+= 0.2 =
+
+Release Date: 2014/01/04
+
+* updated public function reference
+
+= 0.1 =
+
+* initial plugin development by, Jeremy Selph http://www.reactivedevelopment.net/
