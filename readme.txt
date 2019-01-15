@@ -43,7 +43,7 @@ When using this &quot;Disable delete posts or pages&quot; plugin you can hide/re
 
 == Help and support ==
 
-For custom WordPress plugin and theme development requests email us at [info@reactivedevelopment.net](mailto:info@reactivedevelopment.net) or go to [https://www.reactivedevelopment.net/](https://www.reactivedevelopment.net/). If you have questions or requests for this plugin go to [https://wordpress.org/support/plugin/disable-delete-post-or-page-link-wordpress-plugin](https://wordpress.org/support/plugin/disable-delete-post-or-page-link-wordpress-plugin) or for quick and paid support go to [https://www.reactivedevelopment.net/contact/project-mind/?plugin=disable-delete-post-or-page](https://www.reactivedevelopment.net/contact/project-mind/?plugin=disable-delete-post-or-page) to message us.
+For custom WordPress plugin and theme development requests email us at [info@reactivedevelopment.net](mailto:info@reactivedevelopment.net) or go to [https://www.reactivedevelopment.net/](https://www.reactivedevelopment.net/). If you have questions or requests for this plugin go to [http://wordpress.org/support/plugin/featured-users-wordpress-plugin](http://wordpress.org/support/plugin/featured-users-wordpress-plugin) or for quick and paid support go to [https://www.reactivedevelopment.net/contact/project-mind/?plugin=featured-users](https://www.reactivedevelopment.net/contact/project-mind/?plugin=featured-users) to message us.
 
 == Frequently Asked Questions ==
 
