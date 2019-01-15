@@ -1,6 +1,6 @@
 === Disable Delete Post or Page ===
 Contributors: jeremyselph
-Donate link: http://reactivedevelopment.net/disable-delete-post-page
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RESFMU9LDAEDQ&source=url
 Tags: delete post, delete, delete page
 Requires at least: 3.1.1
 Tested up to: 4.9
