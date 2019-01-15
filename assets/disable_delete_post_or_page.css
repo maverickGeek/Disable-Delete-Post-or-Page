@@ -1,0 +1,25 @@
+/*!
+ * Disable delete post or page admin scripts
+ * @company Reactive Development LLC
+ * @author Jeremy Selph <jselph@reactivedevelopment.net>
+ * @link http://www.reactivedevelopment.net/
+ * @version 0.1
+ */ /**
+
+    Change Log
+
+     * 0.1  initial development by, Jeremy Selph                                                        2019/01/14
+ 
+ */ /*
+     * @author Jeremy Selph <jselph@reactivedevelopment.net>
+     * @since 0.1
+    */
+    #js-remove-delete-message{ float: left; margin: 0 0 4px 0; }
+    a.rdLogo{ display: inline-block; }
+    img.rdLogoImg, img.supportImg{ max-width: 100%; }
+    #rdl_settings td.row-title{ width: 20%; }
+    #rdl_settings td input{ display: inline-block; margin: 4px 5px 0 0; float: left; }
+    #rdl_settings td span{ display: inline-block; margin: 3px 0 0 0; }
+    .rdlcontent #poststuff h2{ padding: 8px 0 8px 0; }
+    .rdlcontent #poststuff h2 span{ display: inline-block; padding: 0 12px 0 12px; }
+    .rdlcontent a{ word-break: break-word; }
